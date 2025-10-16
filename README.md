@@ -1,7 +1,7 @@
 # 💻✨ Daily DSA + Life Gyan Repository  
 
 Welcome, coder! 🙌  
-This isn’t just a repository, it’s a **journey**. A journey of solving problems, learning something new every day, and collecting not just *solutions*... but *gyan* — life lessons hidden between lines of code. ❤️  
+This isn’t just a repository, it’s a **journey**. A journey of solving problems, learning something new every day, and collecting not just *solutions*... but **gyan** life lessons hidden between lines of code. ❤️  
 
 ## 🗂️ Folder Structure  
 
