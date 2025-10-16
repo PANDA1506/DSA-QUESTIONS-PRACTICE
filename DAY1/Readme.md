@@ -4,7 +4,9 @@ WE'LL START FROM ARRAYS AND SUBARRAY
 DAY 1
 
 P1 - Contains Duplicate
+
 P2 - Remove Duplicate From Sorted Array
+
 P3 - Find the Duplicate Number
 
 solve these questions understand the concept, try it own your own and BOOM EASY RYT
