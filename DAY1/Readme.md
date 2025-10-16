@@ -13,7 +13,7 @@ solve these questions understand the concept, try it own your own.
 
 ## LITTLE GYAN : 
 
-Ever heard of the Butterfly Effect?
+#### Ever heard of the Butterfly Effect?
 
 It says that even the smallest changes can create a huge difference over time. That’s how life works too, start small, make tiny improvements, keep learning, keep growing, and soon you’ll see everything beginning to fall into place. Progress might seem slow at first, but every little step counts.
 
