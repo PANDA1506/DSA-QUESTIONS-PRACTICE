@@ -11,7 +11,7 @@ solve these questions understand the concept, try it own your own.
 
 ## LITTLE GYAN : 
 
-Life is a mix of highs and lows. 
+#### Life is a mix of highs and lows. 
 
 Sometimes everything feels like it’s falling apart, but it only takes one small step in the right direction to turn things around. Keep pushing forward — every setback is just a setup for a stronger comeback.
 
