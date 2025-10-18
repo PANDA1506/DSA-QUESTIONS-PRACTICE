@@ -7,7 +7,7 @@ P1 - Two Sum (leetcode 1)
 
 P2 - Two Sum - II (leetcode 167)
 
-P3 - Find Pivot Index (Equilibrium Index) (leetcode 287)
+P3 - Find Pivot Index (Equilibrium Index) (leetcode 724)
 
 solve these questions understand the concept, try it own your own.
 
