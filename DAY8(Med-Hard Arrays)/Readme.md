@@ -18,5 +18,5 @@ Life’s not about big leaps, just finding your next step, the one that makes yo
 Sort your time like colors, give every shade its space: study, smile, rest, repeat.
 And when something feels off, don’t break yourself trying to fit it, just replace what’s wrong with what feels right. 
 
-Balance will follow, quietly.
+Balance will follow, quietly..
 
