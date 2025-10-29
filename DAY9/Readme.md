@@ -16,4 +16,4 @@ When everything starts looping, thoughts, plans, emotions, don’t try to fix it
 
 Like cleaning up a messy grid, don’t erase everything, just mark what drains you, what distracts you, and gently turn those parts to zero.
 
-Bit by bit, the chaos fades, and what’s left is you, clearer, calmer, lighter.
+Bit by bit, the chaos fades, and what’s left is you, clearer, calmer, lighter..
